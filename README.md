@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Resume AI</h1>
 
 <p align="center">
-  <img src="./assets/hero.png" alt="Resume AI Banner" width="100%" />
+  <img src="client/src/assets/hero.png" alt="Resume AI Banner" width="100%" />
 </p>
 
 <p align="center">
