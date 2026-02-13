@@ -8,14 +8,20 @@
   <b>AI-Powered Resume Builder to Land Your Dream Job</b>
 </p>
 
+<p align="center">
+  🌐 Live Website:  
+  <a href="https://resume-ai-seven-orpin.vercel.app/" target="_blank">
+    https://resume-ai-seven-orpin.vercel.app/
+  </a>
+</p>
 
 ---
 
 ## 🚀 About the Project
 
-**Resume AI** is a modern, full-stack **AI-powered resume builder** that helps users create, edit, improve, and download professional resumes.
+**Resume AI** is a modern, full-stack **AI-powered resume builder** that helps users create, edit, enhance, and download professional resumes.
 
-It uses **AI assistance** to enhance resume content and is designed with a clean, responsive, production-ready UI.
+It leverages **AI assistance** to improve resume content and provides a clean, responsive, production-ready user experience.
 
 ---
 
@@ -24,7 +30,7 @@ It uses **AI assistance** to enhance resume content and is designed with a clean
 - 🔐 Secure Login & Signup (JWT Authentication)
 - 📄 Professional Resume Builder
 - 🤖 AI-Powered Resume Enhancements
-- 🎨 Custom Resume Themes & Colors
+- 🎨 Custom Resume Templates & Accent Colors
 - 👀 Live Resume Preview
 - 📥 Download Resume as PDF
 - 🌍 Public Resume Sharing
@@ -67,6 +73,7 @@ RESUME-AI/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   └── assets/
+│   │       └── hero.png
 │   ├── .env
 │   └── package.json
 │
@@ -79,7 +86,5 @@ RESUME-AI/
 │   ├── .env
 │   └── server.js
 │
-├── assets/
-│   └── hero.png
 ├── .gitignore
 └── README.md
