@@ -1,22 +1,13 @@
+<h1 align="center">🧠 Resume AI</h1>
+
 <p align="center">
   <img src="./assets/hero.png" alt="Resume AI Banner" width="100%" />
 </p>
-
-<h1 align="center">🧠 Resume AI</h1>
 
 <p align="center">
   <b>AI-Powered Resume Builder to Land Your Dream Job</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akashsharma1462/RESUME-AI">
-    <img src="https://img.shields.io/github/stars/akashsharma1462/RESUME-AI?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/akashsharma1462/RESUME-AI">
-    <img src="https://img.shields.io/github/forks/akashsharma1462/RESUME-AI?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Made%20With-React%20%7C%20Node%20%7C%20AI-green?style=for-the-badge" />
-</p>
 
 ---
 
